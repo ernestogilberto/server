@@ -19,8 +19,3 @@ let products = [
 ]
 
 productManager = new Contenedor()
-
-// let productos = productManager.getAll().then(r=>r.payload)
-//
-// setTimeout(()=>{console.log(productos)}, 1000)
-
